@@ -1,2 +1,2 @@
-# McGill-Computer-Science-Projects
-This Repository contains projects demonstrating my Software Engineering logic in McGill. It focuses on algorithmic efficiency, data structures in Java, and systems programming in C.
+# Bee-Tower-Defense-(Object-Oriented-Programming)
+Architected a custom Linear Queue for swarm management and a deep Inheritance Hierarchy for unit balancing.
