@@ -1,2 +1,2 @@
 # Gus-the-Caterpillar-(Linked-Lists-&-Stacks)
-Architected a custom Linear Queue for swarm management and a deep Inheritance Hierarchy for unit balancing.
+Utilized Singly Linked Lists with a Fisher-Yates shuffle implementation for $O(n)$ state randomization.
